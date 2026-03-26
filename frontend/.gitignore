@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+.next/
+out/
+dist/
+.env
+.env.local
+.npm/
+.pnpm-store/
+*.tsbuildinfo
+.eslintcache
