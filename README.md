@@ -49,7 +49,7 @@ buyer-portal/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/Ashimpaudel09/buyer-portal)
 cd buyer-portal
 ```
 
